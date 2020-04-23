@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="home_scene" extends="Scene">
+  <script type="text/brightscript" uri="pkg:/components/home_scene.brs" />
+<children>
+    <Label
+      translation="[100, 100]"
+      id="label_hello"
+      font="font:LargeBoldSystemFont"
+      color="0x000000"
+      text="The magic starts here."/>
+</children>
+</component>
